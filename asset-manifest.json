@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/raulaugusto/SoNosDois.git/static/css/main.04898524.css",
-    "main.js": "/raulaugusto/SoNosDois.git/static/js/main.2c7b3462.js",
-    "static/js/488.f944273e.chunk.js": "/raulaugusto/SoNosDois.git/static/js/488.f944273e.chunk.js",
-    "index.html": "/raulaugusto/SoNosDois.git/index.html",
-    "main.04898524.css.map": "/raulaugusto/SoNosDois.git/static/css/main.04898524.css.map",
-    "main.2c7b3462.js.map": "/raulaugusto/SoNosDois.git/static/js/main.2c7b3462.js.map",
-    "488.f944273e.chunk.js.map": "/raulaugusto/SoNosDois.git/static/js/488.f944273e.chunk.js.map"
+    "main.css": "/raulaugusto/its_a_secret.git/static/css/main.04898524.css",
+    "main.js": "/raulaugusto/its_a_secret.git/static/js/main.3c3a9552.js",
+    "static/js/488.f944273e.chunk.js": "/raulaugusto/its_a_secret.git/static/js/488.f944273e.chunk.js",
+    "index.html": "/raulaugusto/its_a_secret.git/index.html",
+    "main.04898524.css.map": "/raulaugusto/its_a_secret.git/static/css/main.04898524.css.map",
+    "main.3c3a9552.js.map": "/raulaugusto/its_a_secret.git/static/js/main.3c3a9552.js.map",
+    "488.f944273e.chunk.js.map": "/raulaugusto/its_a_secret.git/static/js/488.f944273e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04898524.css",
-    "static/js/main.2c7b3462.js"
+    "static/js/main.3c3a9552.js"
   ]
 }
